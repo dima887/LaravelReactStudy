@@ -1,0 +1,22 @@
+.my-form-auth {
+    padding: 10px;
+}
+
+.my-border {
+    border-radius: 10px;
+    background: darkviolet;
+}
+
+.my-background-car-form {
+    border-radius: 10px;
+    background: teal;
+}
+
+.my-btn-input {
+    margin: 30px;
+}
+
+.my-btn-color {
+    background: tomato;
+    color: white;
+}
